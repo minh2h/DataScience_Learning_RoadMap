@@ -31,6 +31,8 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | A First Course in Probability| Sheldon Ross| **Completed** |
+| Introduction to Mathematical Statistics, 7th Edition| Robert V. Hogg, Joseph W. McKean, Allen T. Craig| To Do |
+
 
 ### Optimization
 #### Books
