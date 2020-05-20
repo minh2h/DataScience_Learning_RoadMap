@@ -1,4 +1,4 @@
-# DataScience_Learning_RoadMap
+# DataScience Learning RoadMap
 
 <p align="center"> 
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" width="600">
@@ -20,14 +20,33 @@ My roadmap to study Data Science.
 | Modern Data Science with R | Benjamin S. Baumer, Daniel T. Kaplan, Nicholas J. Horton | **Completed** |
 
 ## Machine Learning
-### Fundamentals
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | In Progress|
 
+## Mathematics
 ### Statistics & Probability theory
-#### Courses
+#### Books
 | URL | Title | Status |
 | :---: | --- | :---: |
 | A First Course in Probability| Sheldon Ross| **Completed** |
+
+### Optimization
+#### Books
+| URL | Title | Status |
+| :---: | --- | :---: |
+| An Introduction to Optimization| Edwin K. P. Chong, Stanislaw H. Zak| To Do |
+
+## Niche topics 
+### Spatial Data
+#### Books
+| URL | Title | Status |
+| :---: | --- | :---: |
+| Applied Spatial Data Analysis with R| Roger S. Bivand, Edzer J. Pebesma Virgilio Gómez-Rubio| To Do |
+
+### Network Data
+#### Books
+| URL | Title | Status |
+| :---: | --- | :---: |
+| A User’s Guide to Network Analysis in R| Douglas A. Luke| To Do |
