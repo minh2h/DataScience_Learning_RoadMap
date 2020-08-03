@@ -1,7 +1,7 @@
 # DataScience Learning RoadMap
 
 <p align="center"> 
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" width="600">
+<img src="Downloads/DataScience_Overview.jpg" width="600">
 </p>
 
 My roadmap to study Data Science.
