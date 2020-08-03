@@ -26,9 +26,21 @@ My roadmap to study Data Science.
 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | In Progress|
 
 ## Mathematics
-### Statistics & Probability theory
-#### Books
+
+### Discrete Mathematics, Linear Algebra and Calculus
+#### Courses
 | URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs)| Discrete Math and Analyzing Social Graphs | **Completed** |
+| [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)| Mathematics for Machine Learning: Linear Algebra | In Progress |
+
+### Statistics & Probability theory
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/probability-theory-statistics)| Probability Theory, Statistics and Exploratory Data Analysis | In Progress |
+#### Books
+| Title | Author | Status |
 | :---: | --- | :---: |
 | A First Course in Probability| Sheldon Ross| **Completed** |
 | Introduction to Mathematical Statistics, 7th Edition| Robert V. Hogg, Joseph W. McKean, Allen T. Craig| To Do |
@@ -36,19 +48,29 @@ My roadmap to study Data Science.
 
 ### Optimization
 #### Books
-| URL | Title | Status |
+| Title | Author | Status |
 | :---: | --- | :---: |
 | An Introduction to Optimization| Edwin K. P. Chong, Stanislaw H. Zak| To Do |
 
 ## Niche topics 
 ### Spatial Data
-#### Books
+#### Courses
 | URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/spatial-data-science)| Spatial Data Science and Applications | **Completed** |
+#### Books
+| Title | Author | Status |
 | :---: | --- | :---: |
 | Applied Spatial Data Analysis with R| Roger S. Bivand, Edzer J. Pebesma Virgilio Gómez-Rubio| To Do |
 
 ### Network Data
 #### Books
-| URL | Title | Status |
+| Title | Author | Status |
 | :---: | --- | :---: |
 | A User’s Guide to Network Analysis in R| Douglas A. Luke| To Do |
+
+### Business Processes
+#### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/process-mining)| Process Mining: Data science in Action | In Progress |
