@@ -76,8 +76,8 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 | A User’s Guide to Network Analysis in R| Douglas A. Luke| To Do |
 
-### Business Processes
+### Data Mining
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/process-mining)| Process Mining: Data science in Action | In Progress |
+| [Coursera](https://www.coursera.org/learn/process-mining)| Process Mining: Data science in Action | **Completed** |
