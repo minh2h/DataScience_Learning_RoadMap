@@ -1,7 +1,7 @@
 # DataScience Learning RoadMap
 
 <p align="center"> 
-<img src="Downloads/DataScience_Overview.jpg" width="600">
+<img src="/Users/minhtet/Downloads/DataScience_Overview.jpg" width="600">
 </p>
 
 My roadmap to study Data Science.
