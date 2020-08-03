@@ -25,6 +25,13 @@ My roadmap to study Data Science.
 | --- | :---: | :---: |
 | An Introduction to Statistical Learning with Applications in R | Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani | In Progress|
 
+## Data Engineering
+### Big Data
+#### Course
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/big-data-introduction) | Introduction to Big Data | **Completed** |
+
 ## Mathematics
 
 ### Discrete Mathematics, Linear Algebra and Calculus
