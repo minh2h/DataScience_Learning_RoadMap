@@ -39,7 +39,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs)| Discrete Math and Analyzing Social Graphs | **Completed** |
-| [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)| Mathematics for Machine Learning: Linear Algebra | In Progress |
+| [Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)| Mathematics for Machine Learning: Linear Algebra | **Completed** |
 
 ### Statistics & Probability theory
 #### Courses
